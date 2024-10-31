@@ -94,12 +94,28 @@ main{
 .skill-container{
   display: flex;
   padding: 30px;
+  gap: 24px;
 
 }
-.skill-description{
-  
-}
+
 .skill{
   padding: 30px;
-  gap: 24px;
+  border-radius: 5px;
+  background-color: #fff8f3;
+  box-shadow: #474747;
+}
+main section{
+  margin-top: 130px;
+}
+.resume-title{
+  font-weight: 700px;
+  font-size: 24pxs;
+}
+.resume-container{
+  display: flex;
+  gap: 100px;
+}
+.download-cv{
+  text-align: center;
+  margin-top: 50px;
 }
